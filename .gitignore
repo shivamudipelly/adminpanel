@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build directories
+/build
+/dist
+/public/build
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files (for Visual Studio Code, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Dependency directories for frontend (React/Next.js)
+client/node_modules/
+client/.env
+
+# Dependency directories for backend (Node.js)
+server/node_modules/
+server/.env
+
+# React Native
+.expo/
+
+# Misc
+*.swp
+*.swo
+
+# Coverage reports from testing tools
+coverage/
+
+# JetBrains IDEs
+.idea/
+
+# MacOS Finder specific files
+.AppleDouble
+.LSOverride
+
+# VS Code specific files
+.vscode/
+
+# Optional: If using any build tools (e.g., Webpack, Babel), you can add their specific output folders here.
